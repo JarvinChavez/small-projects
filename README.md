@@ -13,6 +13,7 @@ Short solo scripts — exercises, utilities, and "can I build this?" experiments
 | [anagram-check](anagram-check/) | Python | Simple anagram validator |
 | [html-table-builder](html-table-builder/) | Python | Build HTML tables from semicolon-delimited strings |
 | [postgres-seed-script](postgres-seed-script/) | Python | Faker + psycopg2 script to seed a sample employees table |
+| [protein-motif-encoding](protein-motif-encoding/) | Python | UniProt motif region n-gram tokenization for clustering pipelines |
 
 ---
 
